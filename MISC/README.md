@@ -7,7 +7,7 @@
 
 ## 🔗 링크
 - 문제 파일: [CAPTCHA THE FLAG.zip](./CAPTCHA%20THE%20FLAG.zip)
-- 추가 증설 서버: [http://captcha2.mjsec.kr](http://captcha2.mjsec.kr)
+
 
 ## 🚩 플래그 형식
 `MSG{...}`
