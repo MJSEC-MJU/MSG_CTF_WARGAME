@@ -1,4 +1,11 @@
-MJSEC 초기 회장 이종윤은 많은 민감한 정보의 소유자입니다. 정지윤은 이런 이종윤의 민감한 정보를 이종윤 몰래 유출하려고 합니다! 정지윤이 유출하고자 한 이종윤의 정보가 무엇인지 알려주세요!
-플래그 형식: MSG{유출하려는 정보}
+# Find the Secret of “jongyoon_lee”
 
-*문제 zip 파일 비밀번호: 7ZmU7J207YyFIQ== 
+## 📜 설명
+MJSEC 초기 회장 이종윤은 많은 민감한 정보를 보유하고 있습니다. 정지윤은 그 사실을 이용해 정보를 몰래 빼돌리려 하고 있으며, 플레이어는 유출하려는 정보가 무엇이었는지 추적해 밝혀내야 합니다.
+
+## 🔗 링크
+- 문제 파일: [Google Drive - Find the Secret of “jongyoon_lee”](https://drive.google.com/file/d/15hWBjhaF7tujmSHT3UjM3R_MLVz_ofq_/view?usp=sharing)
+- ZIP 비밀번호: `7ZmU7J207YyFIQ==`
+
+## 🚩 플래그 형식
+`MSG{유출하려는 정보}`

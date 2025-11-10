@@ -1,7 +1,13 @@
-캡챠는 사람인지 봇인지 구별하기 위한 문제입니다. 근데 이번 문제는 다릅니다. 당신이 봇임을 증명, 봇은 사람처럼 문제를 해결하세요.
+# CAPTCHA THE FLAG
 
-🚨: google, geetest에 대한 공격은 절대 금지입니다.
-무분별한 토큰 생성 및 DOS는 절대 금지입니다.
+## 📜 설명
+캡챠는 사람인지 봇인지 구별하기 위한 검증 장치지만, 이번 문제에서는 반대로 **당신이 봇임을 증명**해야 합니다. 제한된 API 호출과 보안 정책을 지키면서 자동화 기법으로 문제를 해결해 보세요.
 
+> 🚨 google, geetest에 대한 공격은 절대 금지이며, 무분별한 토큰 생성이나 DOS 행위 역시 금지됩니다.
 
-추가 증설 서버:http://captcha2.mjsec.kr
+## 🔗 링크
+- 문제 파일: [CAPTCHA THE FLAG.zip](./CAPTCHA%20THE%20FLAG.zip)
+- 추가 증설 서버: [http://captcha2.mjsec.kr](http://captcha2.mjsec.kr)
+
+## 🚩 플래그 형식
+`MSG{...}`
